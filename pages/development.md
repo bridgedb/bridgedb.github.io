@@ -4,10 +4,10 @@ The development of BridgeDb is as modular as BridgeDb itself. In particular, the
 
 1. [Java library developers](https://github.com/bridgedb/BridgeDb)
 2. Creators of the identifier mapping databases
-  1. [Genes and Proteins (Based on Ensembl & EnsemblGenomes)](https://github.com/bridgedb/BioMartScript)
-  2. [Metabolites (Based on HMDB, ChEBI, and Wikidata)](https://github.com/bridgedb/create-bridgedb-metabolites)
-  3. [Interactions (Based on Rhea)](https://github.com/bridgedb/InteractionDB)
-  4. [Gene-Variant (Ensembl and dnSNP)](https://github.com/BiGCAT-UM/BridgeDbVariantDatabase)
+   1. [Genes and Proteins (Based on Ensembl & EnsemblGenomes)](https://github.com/bridgedb/BioMartScript)
+   2. [Metabolites (Based on HMDB, ChEBI, and Wikidata)](https://github.com/bridgedb/create-bridgedb-metabolites)
+   3. [Interactions (Based on Rhea)](https://github.com/bridgedb/InteractionDB)
+   4. [Gene-Variant (Ensembl and dnSNP)](https://github.com/BiGCAT-UM/BridgeDbVariantDatabase)
 
 ## Development team
 
