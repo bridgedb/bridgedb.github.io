@@ -1,0 +1,28 @@
+# System codes
+
+Part of the framework of BridgeDb is the annotation of data sources, which is done by means of SytemCodes (SysCode).
+These SysCodes are either derived from the full name of  a database (for example “En” is the SysCode for Ensembl),
+or their origin is more historical (for example “Ch” is the Syscode for HMDB, but has an abbreviation related
+to the word “chemicals”).
+
+## Gene resources
+
+## Metabolite resources
+
+## Protein resources
+
+## Interaction resources
+
+## Pathway resources
+
+## Probe resources
+
+## Ontology resources
+
+<table>
+  <tr><td>T</td><td><a href="http://www.ebi.ac.uk/QuickGO/">GeneOntology</a></td></tr>
+  <tr><td>Sbo</td><td><a href="http://www.ebi.ac.uk/sbo/">Systems Biology Ontology</a></td></tr>
+</table>
+
+<!--  <tr><td></td><td><a href=""></a></td></tr> -->
+
