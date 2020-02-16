@@ -17,6 +17,15 @@ to the word “chemicals”).
 
 ## Probe resources
 
+<table>
+  <tr><td>X</td><td><a href="http://www.affymetrix.com/">Affy</a></td></tr>
+  <tr><td>Ag</td><td><a href="http://agilent.com/">Agilent</a></td></tr>
+  <tr><td>Ge</td><td><a href="http://www.appliedmicroarrays.com/">CodeLink</a></td></tr>
+  <tr><td>Il</td><td><a href="http://www.illumina.com/">Illumina</a></td></tr>
+  <tr><td>Wr</td><td><a href="http://wheat.pw.usda.gov/">Wheat gene refs</a></td></tr>
+</table>
+
+
 ## Ontology resources
 
 <table>
