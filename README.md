@@ -8,6 +8,14 @@ BridgeDb includes a Java library that provides an API for programmatic access.
 
 <table border="0">
   <tr border="0">
+    <td border="0" width="33%"><a href="/pages/framework.html"><img src="/images/snowflake-with-hexagon-shape-outline_318-40429-300x300.jpg" /><br />Framework and libraries</a></td>
+    <td border="0" width="33%"><a href="/pages/mappingdbs.html"><img src="/images/Database.png" /><br />Identifier Mapping Databases</a></td>
+    <td border="0" width="30%"><a href="/pages/plugins.html"><img src="/images/puzzle-pieces-in-black-and-white-variant_318-50145-300x300.jpg" /><br />BridgeDb Plugins</a></td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr border="0">
     <td border="0" width="200"><img src="/images/university-1.png" /></td>
     <td border="0" width="200"><img src="/images/hwlogo.gif" /></td>
     <td border="0" width="200"><img src="/images/NRNB_black_500.png" /></td>
