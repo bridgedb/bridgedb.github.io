@@ -12,6 +12,11 @@ BridgeDb includes a Java library that provides an API for programmatic access.
     <td border="0" width="33%" align="center"><a href="/pages/mappingdbs.html"><img width="80%" src="/images/Database.png" /><br />Identifier Mapping Databases</a></td>
     <td border="0" width="33%" align="center"><a href="/pages/plugins.html"><img width="80%" src="/images/puzzle-pieces-in-black-and-white-variant_318-50145-300x300.jpg" /><br />BridgeDb Plugins</a></td>
   </tr>
+  <tr border="0">
+    <td border="0" width="33%" align="center"><a href="/pages/webservice.html"><img width="80%" src="/images/APIlogo_altered.jpg" /><br />Webservice and API</a></td>
+    <td border="0" width="33%" align="center"><a href="/pages/webservice-impl.html"><img width="80%" src="/images/docker-300x273.png" /><br />Webservice implementation<br />Docker and semantic web</a></td>
+    <td border="0" width="33%" align="center"><a href="/pages/docs.html"><img width="80%" src="/images/graduation-cap-outline_318-59572-300x300.jpg" /><br />Documentation</a></td>
+  </tr>
 </table>
 
 <table border="0">
