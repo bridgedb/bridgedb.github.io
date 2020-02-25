@@ -8,6 +8,26 @@ to the word “chemicals”).
 ## Gene resources
 
 <table>
+  <tr><td>Bc</td><td><a href="http://biocyc.org/">BioCyc</a></td></tr>
+  <tr><td>Cc</td><td><a href="http://identifiers.org/ccds/">CCDS</a></td></tr>
+  <tr><td>Sn</td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=snp">dbSNP</a></td></tr>
+  <tr><td>Ec</td><td><a href="http://ecogene.org/">EcoGene</a></td></tr>
+  <tr><td>Em</td><td><a href="http://www.ebi.ac.uk/embl/">EMBL</a></td></tr>
+  <tr><td>En</td><td><a href="http://www.ensembl.org/">Ensembl</a></td></tr>
+  <tr><td>L</td><td><a href="http://www.ncbi.nlm.nih.gov/gene">NCBI Gene</a></td></tr>
+  <tr><td>E</td><td><a href="http://www.ebi.ac.uk/intenz/">Enzyme Nomenclature</a></td></tr>
+  <tr><td>F</td><td><a href="http://flybase.org/">FlyBase</a></td></tr>
+  <tr><td>G</td><td><a href="http://www.ncbi.nlm.nih.gov/genbank/">GenBank</a></td></tr>
+  <tr><td>Gw</td><td><a href="http://en.wikipedia.org/wiki/Portal:Gene_Wiki">Gene Wiki</a></td></tr>
+  <tr><td>EnAt</td><td><a href="http://www.gramene.org/">Gramene Arabidopsis</a></td></tr>
+  <tr><td>Gg</td><td><a href="http://www.gramene.org/">Gramene Genes DB</a></td></tr>
+  <tr><td>Gl</td><td><a href="http://www.gramene.org/">Gramene Literature</a></td></tr>
+  <tr><td>EnZm</td><td><a href="http://www.ensembl.org/">Gramene Maize</a></td></tr>
+  <tr><td>EnOj</td><td><a href="http://www.gramene.org/">Gramene Rice</a></td></tr>
+  <tr><td>H</td><td><a href="http://www.genenames.org/">HGNC</a></td></tr>
+  <tr><td>Hac</td><td><a href="http://www.genenames.org/">HGNC Accession number</a></td></tr>
+  <tr><td>Hg</td><td><a href="http://www.ncbi.nlm.nih.gov/homologene/">HomoloGene</a></td></tr>
+  <tr><td>Ir</td><td><a href="http://rgp.dna.affrc.go.jp/IRGSP/">IRGSP Gene</a></td></tr>
   <tr><td></td><td><a href=""></a></td></tr>
 </table>
 
