@@ -46,7 +46,19 @@ to the word “chemicals”).
 ## Interaction resources
 
 <table>
-  <tr><td></td><td><a href=""></a></td></tr>
+  <tr><td>Bi</td><td><a href="http://www.bind.ca/">BIND</a></td></tr>
+  <tr><td>Bg</td><td><a href="http://thebiogrid.org/">BioGrid</a></td></tr>
+  <tr><td>Dip</td><td><a href="http://dip.doe-mbi.ucla.edu/">Database of Interacting Proteins</a></td></tr>
+  <tr><td>Eco</td><td><a href="http://ecocyc.org/">EcoCyc</a></td></tr>
+  <tr><td>Hp</td><td><a href="http://www.hprd.org/">HPRD</a></td></tr>
+  <tr><td>Ia</td><td><a href="http://www.ebi.ac.uk/intact/">IntAct</a></td></tr>
+  <tr><td>Md</td><td><a href="http://matrixdb.ibcp.fr/">MatrixDB</a></td></tr>
+  <tr><td>Mc</td><td><a href="http://www.metacyc.org/">MetaCyc</a></td></tr>
+  <tr><td>Mi</td><td><a href="http://mint.bio.uniroma2.it/mint/">MINT</a></td></tr>
+  <tr><td>Pi</td><td><a href="http://cbg.garvan.unsw.edu.au/pina/">PINA</a></td></tr>
+  <tr><td>Rh</td><td><a href="http://www.ebi.ac.uk/rhea/">Rhea</a></td></tr>
+  <tr><td>Sk</td><td><a href="http://www.cs.tau.ac.il/~spike/">SPIKE</a></td></tr>
+  <tr><td>Xm</td><td><a href="http://www.xmetdb.org/">XMetDb</a></td></tr>
 </table>
 
 ## Pathway resources
