@@ -28,6 +28,24 @@ to the word “chemicals”).
   <tr><td>Hac</td><td><a href="http://www.genenames.org/">HGNC Accession number</a></td></tr>
   <tr><td>Hg</td><td><a href="http://www.ncbi.nlm.nih.gov/homologene/">HomoloGene</a></td></tr>
   <tr><td>Ir</td><td><a href="http://rgp.dna.affrc.go.jp/IRGSP/">IRGSP Gene</a></td></tr>
+  <tr><td>Kg</td><td><a href="http://www.genome.jp/kegg/genes.html">KEGG Genes</a></td></tr>
+  <tr><td>Mg</td>MaizeGDB</td></tr>
+  <tr><td>M</td><td><a href="http://www.informatics.jax.org/">MGI</a></td></tr>
+  <tr><td>Mbm</td><td><a href="http://www.mirbase.org/">miRBase mature sequence</a></td></tr>
+  <tr><td>Mb</td><td><a href="http://microrna.sanger.ac.uk/">miRBase Sequence</a></td></tr>
+  <tr><td>N</td><td><a href="http://arabidopsis.info/">NASC Gene</a></td></tr>
+  <tr><td>Om</td><td><a href="http://omim.org/">OMIM</a></td></tr>
+  <tr><td>Ob</td><td><a href="http://www.shigen.nig.ac.jp/rice/oryzabase">Oryzabase</a></td></tr>
+  <tr><td>O</td><td>Other</td></tr>
+  <tr><td>Pgg</td><td><a href="http://www.pharmgkb.org/">PharmGKB Gene</a></td></tr>
+  <tr><td>Pl</td><td><a href="http://www.plantgdb.org/">PlantGDB</a></td></tr>
+  <tr><td>Q</td><td><a href="http://www.ncbi.nlm.nih.gov/projects/RefSeq/">RefSeq</a></td></tr>
+  <tr><td>Rf</td><td>Rfam</td></tr>
+  <tr><td>R</td><td><a href="http://rgd.mcw.edu/">RGD</a></td></tr>
+  <tr><td>Os</td><td><a href="http://www.gramene.org/Oryza_sativa">Rice Ensembl Gene</a></td></tr>
+  <tr><td>D</td><td><a href="http://www.yeastgenome.org/">SGD</a></td></tr>
+  <tr><td>Bsu</td><td><a href="http://www.subtiwiki.uni-goettingen.de/wiki/index.php/Main_Page">SubtiWiki</a></td></tr>
+  <tr><td>A</td><td><a href="http://arabidopsis.org/index.jsp">TAIR</a></td></tr>
   <tr><td></td><td><a href=""></a></td></tr>
 </table>
 
