@@ -84,7 +84,24 @@ to the word “chemicals”).
 ## Protein resources
 
 <table>
-  <tr><td></td><td><a href=""></a></td></tr>
+  <tr><td>Br</td><td><a href="http://www.brenda-enzymes.org/">BRENDA</a></td></tr>
+  <tr><td>I</td><td><a href="http://www.ebi.ac.uk/interpro/">InterPro</a></td></tr>
+  <tr><td>Ip</td><td><a href="http://www.ebi.ac.uk/IPI">IPI</a></td></tr>
+  <tr><td>Ma</td><td><a href="http://www.ebi.ac.uk/thornton-srv/databases/MACiE/index.html">MACiE</a></td></tr>
+  <tr><td>Np</td><td><a href="http://www.ncbi.nlm.nih.gov/protein">NCBI Protein</a></td></tr>
+  <tr><td>Pd</td><td><a href="http://www.pdb.org/">PDB</a></td></tr>
+  <tr><td>Pf</td><td><a href="http://pfam.sanger.ac.uk/">Pfam</a></td></tr>
+  <tr><td>Pp</td><td><a href="http://www.phosphosite.org/homeAction.do">PhosphoSite Protein</a></td></tr>
+  <tr><td>Res</td><td><a href="http://www.ebi.ac.uk/RESID/">RESID</a></td></tr>
+  <tr><td>Sma</td><td><a href="http://smart.embl-heidelberg.de/">SMART</a></td></tr>
+  <tr><td>Spr</td><td><a href="http://www.bioinf.manchester.ac.uk/dbbrowser/sprint/">SPRINT</a></td></tr>
+  <tr><td>Str</td><td><a href="http://string.embl.de/">STRING</a></td></tr>
+  <tr><td>Sdb</td><td><a href="http://substrate.burnham.org/">SubstrateDB</a></td></tr>
+  <tr><td>Sf</td><td><a href="http://supfam.org/SUPERFAMILY/">SUPFAM</a></td></tr>
+  <tr><td>Sw</td><td><a href="http://swissmodel.expasy.org/">SWISS-MODEL</a></td></tr>
+  <tr><td>Tt</td><td><a href="http://bidd.nus.edu.sg/group/cjttd/TTD_HOME.asp">TTD Target</a></td></tr>
+  <tr><td>S</td><td><a href="http://www.uniprot.org/">Uniprot-TrEMBL</a></td></tr>
+  <tr><td>Sp</td><td><a href="http://www.uniprot.org/">Uniprot-SwissProt</a></td></tr>
 </table>
 
 ## Interaction resources
