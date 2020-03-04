@@ -59,7 +59,26 @@ to the word “chemicals”).
 ## Metabolite resources
 
 <table>
-  <tr><td></td><td><a href=""></a></td></tr>
+  <tr><td>Ca</td><td><a href="http://commonchemistry.org/">CAS</a></td></tr>
+  <tr><td>Ce</td><td><a href="http://www.ebi.ac.uk/chebi/">ChEBI</a></td></tr>
+  <tr><td>Cs</td><td><a href="http://www.chemspider.com/">ChemSpider</a></td></tr>
+  <tr><td>Cl</td><td><a href="https://www.ebi.ac.uk/chembldb/">ChEMBL compound</a></td></tr>
+  <tr><td>Dr</td><td><a href="http://www.drugbank.ca/">DrugBank</a></td></tr>
+  <tr><td>Ch</td><td><a href="http://www.hmdb.ca/">HMDB</a></td></tr>
+  <tr><td>Gpl</td><td><a href="http://www.guidetopharmacology.org/GRAC/chemSearch.jsp">Guide to Pharmacology Ligand ID  (aka IUPHAR)</a></td></tr>
+  <tr><td>Ik</td><td><a href="http://inchi.org/">InChIKey</a></td></tr>
+  <tr><td>Ck</td><td><a href="http://www.genome.jp/kegg/ligand.html">KEGG Compound</a></td></tr>
+  <tr><td>Kd</td><td><a href="http://www.genome.jp/kegg/drug/">KEGG Drug</a></td></tr>
+  <tr><td>Kl</td><td><a href="http://www.genome.jp/kegg/glycan/">KEGG Glycan</a></td></tr>
+  <tr><td>Lm</td><td><a href="http://www.lipidmaps.org/">LIPID MAPS</a></td></tr>
+  <tr><td>Lb</td><td><a href="http://lipidbank.jp/index.html">LipidBank</a></td></tr>
+  <tr><td>Pgd</td><td><a href="http://www.pharmgkb.org/">PharmGKB Drug</a></td></tr>
+  <tr><td>Cpc</td><td><a href="http://pubchem.ncbi.nlm.nih.gov/">PubChem Compound</a></td></tr>
+  <tr><td>Cps</td><td><a href="http://pubchem.ncbi.nlm.nih.gov/">PubChem Substance</a></td></tr>
+  <tr><td>Sl</td><td><a href="http://www.swisslipids.org/">SwissLipids</a></td></tr>
+  <tr><td>Td</td><td><a href="http://bidd.nus.edu.sg/group/cjttd/TTD_HOME.asp">TTD Drug</a></td></tr>
+  <tr><td>Wd</td><td><a href="https://wikidata.org/">Wikidata</a></td></tr>
+  <tr><td>Wi</td><td><a href="https://wikipedia.org/">Wikipedia</a></td></tr>
 </table>
 
 ## Protein resources
