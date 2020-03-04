@@ -29,7 +29,7 @@ to the word “chemicals”).
   <tr><td>Hg</td><td><a href="http://www.ncbi.nlm.nih.gov/homologene/">HomoloGene</a></td></tr>
   <tr><td>Ir</td><td><a href="http://rgp.dna.affrc.go.jp/IRGSP/">IRGSP Gene</a></td></tr>
   <tr><td>Kg</td><td><a href="http://www.genome.jp/kegg/genes.html">KEGG Genes</a></td></tr>
-  <tr><td>Mg</td>MaizeGDB</td></tr>
+  <tr><td>Mg</td><td>MaizeGDB</td></tr>
   <tr><td>M</td><td><a href="http://www.informatics.jax.org/">MGI</a></td></tr>
   <tr><td>Mbm</td><td><a href="http://www.mirbase.org/">miRBase mature sequence</a></td></tr>
   <tr><td>Mb</td><td><a href="http://microrna.sanger.ac.uk/">miRBase Sequence</a></td></tr>
@@ -46,7 +46,14 @@ to the word “chemicals”).
   <tr><td>D</td><td><a href="http://www.yeastgenome.org/">SGD</a></td></tr>
   <tr><td>Bsu</td><td><a href="http://www.subtiwiki.uni-goettingen.de/wiki/index.php/Main_Page">SubtiWiki</a></td></tr>
   <tr><td>A</td><td><a href="http://arabidopsis.org/index.jsp">TAIR</a></td></tr>
-  <tr><td></td><td><a href=""></a></td></tr>
+  <tr><td>Ti</td><td><a href="http://www.jcvi.org/">TIGR</a></td></tr>
+  <tr><td>Tb</td><td><a href="http://genome.ucsc.edu/">TubercuList</a></td></tr>
+  <tr><td>Uc</td><td><a href="http://genome.ucsc.edu/">UCSC Genome Browser</a></td></tr>
+  <tr><td>U</td><td><a href="http://www.ncbi.nlm.nih.gov/unigene">UniGene</a></td></tr>
+  <tr><td>Wn</td><td><a href="http://wheat.pw.usda.gov/">Wheat gene names</a></td></tr>
+  <tr><td>Wg</td><td><a href="http://www.wikigenes.org/">WikiGenes</a></td></tr>
+  <tr><td>W</td><td><a href="http://www.wormbase.org/">WormBase</a></td></tr>
+  <tr><td>Z</td><td><a href="http://zfin.org/">ZFIN</a></td></tr>
 </table>
 
 ## Metabolite resources
