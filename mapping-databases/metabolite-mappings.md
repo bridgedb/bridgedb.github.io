@@ -5,7 +5,7 @@ These identifier mapping databases contain mappings for metabolites extracted fr
  * Webpage: [https://github.com/bridgedb/create-bridgedb-metabolites/blob/master/README.md](https://github.com/bridgedb/create-bridgedb-metabolites/blob/master/README.md)
  * Authors: Egon Willighagen ([ORCID](http://orcid.org/0000-0001-7542-0286)), Denise Slenter ([ORCID](https://orcid.org/0000-0001-8449-1318))
  * License: CCZero
- * Mapping Sources: [HMDB](http://hmdb.ca/) (version 20190116), [ChEBI](http://www.ebi.ac.uk/chebi/) 175, [Wikidata](https://wikidata.org/) (2019-05-09)
+ * Mapping Sources: [HMDB](http://hmdb.ca/) (version 20190116), [ChEBI](http://www.ebi.ac.uk/chebi/) 180, [Wikidata](https://wikidata.org/) (2019-10-25)
  * Source code: [https://github.com/bridgedb/create-bridgedb-metabolites](https://github.com/bridgedb/create-bridgedb-metabolites)
  * Issues: [https://github.com/bridgedb/create-bridgedb-metabolites/issues](https://github.com/bridgedb/create-bridgedb-metabolites/issues)
 
