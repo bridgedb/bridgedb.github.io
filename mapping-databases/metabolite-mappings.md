@@ -11,6 +11,10 @@ These identifier mapping databases contain mappings for metabolites extracted fr
 
 # Releases
 
+ * 2019-10-25: [metabolites_20191025.bridge](https://ndownloader.figshare.com/files/18108980) ([QC_report](https://ndownloader.figshare.com/files/18108968))
+   * Mapping sources: HMDB 4.0 (version 2019-01-16), ChEBI 180, Wikidata (2019-10-25).
+   * Please cite using [https://doi.org/10.6084/m9.figshare.10048508.v1](https://doi.org/10.6084/m9.figshare.10048508.v1)
+   * *This work was funded by ELIXIR, the research infrastructure for life-science data.*
  * 2019-02-07: [metabolites_20190509.bridge](https://ndownloader.figshare.com/files/15136133) ([QC_report](https://ndownloader.figshare.com/files/15136367))
    * Mapping sources: HMDB 4.0 (version 2019-01-16), ChEBI 175, Wikidata (2019-05-09).
    * Please cite using [https://doi.org/10.6084/m9.figshare.8118692.v1](https://doi.org/10.6084/m9.figshare.8118692.v1)
