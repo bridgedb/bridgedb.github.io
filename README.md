@@ -1,5 +1,20 @@
 # Standardised access to Gene, Gene-Variant, Protein, Metabolite and Interaction Identifier Mapping Services
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@id": "https://bridgedb.org/",
+  "url": "https://bridgedb.org/",
+  "@type": "SoftwareApplication",
+  "name": "BridgeDb",
+  "description": "Standardised access to Gene, Gene-Variant, Protein, Metabolite and Interaction Identifier Mapping Services",
+  "citation": "https://doi.org/10.1186/1471-2105-11-5",
+  "license": "https://spdx.org/licenses/Apache-2.0",
+  "applicationCategory": "Computational science tool",
+  "operatingSystem": ["Linux", "Windows", "Mac"]
+}
+</script>
+
 BridgeDb is a framework to map identifiers between various biological databases. 
 These mappings are provided for genes, proteins, genetic variants, metabolites, and metabolic reactions. 
 BridgeDb includes a Java library that provides an API for programmatic access.
