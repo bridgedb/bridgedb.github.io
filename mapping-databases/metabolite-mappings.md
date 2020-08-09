@@ -11,6 +11,15 @@ These identifier mapping databases contain mappings for metabolites extracted fr
 
 # Releases
 
+ * 2020-08-09: [metabolites_20200809.bridge](https://ndownloader.figshare.com/files/24180464) ([QC_report](https://ndownloader.figshare.com/files/24180467))
+   * Mapping sources: HMDB 4.0 (version April 2020), ChEBI 190, Wikidata (2020-08-09).
+   * Please cite using [https://doi.org/10.6084/m9.figshare.12782264.v1](https://doi.org/10.6084/m9.figshare.12782264.v1)
+ * 2020-06-10: [metabolites_20200610.bridge](https://ndownloader.figshare.com/files/23063135) ([QC_report](https://ndownloader.figshare.com/files/23063531))
+   * Mapping sources: HMDB 4.0 (version April 2020), ChEBI 186, Wikidata (2020-06-10).
+   * Please cite using [https://doi.org/10.6084/m9.figshare.12458612.v1](https://doi.org/10.6084/m9.figshare.12458612.v1)
+ * 2020-04-13: [metabolites_20200413.bridge](https://ndownloader.figshare.com/files/22621442) ([QC_report](https://ndownloader.figshare.com/files/22621445))
+   * Mapping sources: HMDB 4.0 (version April 2020), ChEBI 186, Wikidata (2020-04-13).
+   * Please cite using [https://doi.org/10.6084/m9.figshare.12278132.v1](https://doi.org/10.6084/m9.figshare.12278132.v1)
  * 2019-10-25: [metabolites_20191025.bridge](https://ndownloader.figshare.com/files/18108980) ([QC_report](https://ndownloader.figshare.com/files/18108968))
    * Mapping sources: HMDB 4.0 (version 2019-01-16), ChEBI 180, Wikidata (2019-10-25).
    * Please cite using [https://doi.org/10.6084/m9.figshare.10048508.v1](https://doi.org/10.6084/m9.figshare.10048508.v1)
