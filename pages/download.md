@@ -8,7 +8,7 @@ There are two source distributions:
  * release-${version}.zip
  * release-${version}.tar.gz
 
-A full archive can be found [at Zenodo](https://zenodo.org/record/3549825).
+A full archive can be found [at Zenodo](https://zenodo.org/record/593034).
 
 ### Using the library in Maven, Gradle, etc
 
