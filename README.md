@@ -22,7 +22,7 @@ BridgeDb includes a Java library that provides an API for programmatic access.
 <table border="0">
   <tr border="0">
     <td border="0" width="33%" align="center"><a href="/pages/framework.html"><img width="80%" src="/images/snowflake-with-hexagon-shape-outline_318-40429-300x300.jpg" /><br />Framework and libraries</a></td>
-    <td border="0" width="33%" align="center"><a href="/pages/mappingdbs.html"><img width="80%" src="/images/Database.png" /><br />Identifier Mapping Databases</a></td>
+    <td border="0" width="33%" align="center"><a href="/data/gene_database/"><img width="80%" src="/images/Database.png" /><br />Identifier Mapping Databases</a></td>
     <td border="0" width="33%" align="center"><a href="/pages/plugins.html"><img width="80%" src="/images/puzzle-pieces-in-black-and-white-variant_318-50145-300x300.jpg" /><br />BridgeDb Plugins</a></td>
   </tr>
   <tr border="0">
