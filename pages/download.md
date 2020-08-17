@@ -38,7 +38,7 @@ For Ivy:
 
 ## Download the Identifier Mapping Databases
 
-See the [overview of mapping databases](data/gene_database/).
+See the [overview of mapping databases](https://bridgedb.github.io/data/gene_database/).
 
 ## Using BridgeDb as a Docker container
 
