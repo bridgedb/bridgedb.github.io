@@ -1,8 +1,8 @@
 # BridgeDb Tutorials and Workflow Integration
 
 BridgeDb tutorials:
-*  [FAIR-plus cookbook](https://fairplus.github.io/the-fair-cookbook/search.html?q=bridgedb)
-*  [TESS portal Elixir](https://tess.elixir-europe.org/search?q=BridgeDb) 
+*  [FAIR-plus cookbook](https://fairplus.github.io/the-fair-cookbook/search.html?q=bridgedb) (examples in R, Python, commandline)
+*  [TESS portal Elixir](https://tess.elixir-europe.org/search?q=BridgeDb) (examples in R)
 
 BridgeDb can be integrated in various environments:
 
