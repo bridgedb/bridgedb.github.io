@@ -17,7 +17,7 @@ The following groups (in alphabetical order for groups and people) are contribut
  * Heriot Watt University: Alasdair Gray
  * Maastricht University: Anwesha Bohler, Chris Evelo, Martijn van Iersel, Thomas Kelder, Christ Leemans, Marvin Martens, Luc, Meyer Jonathan Mélius, Denise Slenter,  Lucas Uberti-Bona Marin, Egon Willighagen
  * University of Manchester: Christian Brenninkmeijer, Ian Dunlop, Carole Goble, Nick Juty, Stian Soiland-Reyes
- * Others:  Jianjiong Gao, Isaac Ho, Manas Awasthi
+ * Others: Manas Awasthi, Jianjiong Gao, Isaac Ho, Kozo Nishida
 
 ## Funding and sustainability
 
