@@ -3,10 +3,11 @@
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/ComputationalTool/0.6-DRAFT/" },
+  "name": "BridgeDb",
   "@id": "https://bridgedb.org/",
   "url": "https://bridgedb.org/",
-  "@type": "SoftwareApplication",
-  "name": "BridgeDb",
   "description": "Standardised access to Gene, Gene-Variant, Protein, Metabolite and Interaction Identifier Mapping Services",
   "citation": "https://doi.org/10.1186/1471-2105-11-5",
   "license": "https://spdx.org/licenses/Apache-2.0",
