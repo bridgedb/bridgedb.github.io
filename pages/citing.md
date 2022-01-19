@@ -21,5 +21,5 @@ When using specific plugin or use case of BridgeDb (related to Cytoscape, and th
 
  * [CyTargetLinker: A Cytoscape App to Integrate Regulatory Interactions in Network Analysis](https://doi.org/10.1371/journal.pone.0082160). Kutmon M, Kelder T, Mandaviya P, Evelo CTA, Coort SL. PloS one 8.12 (2013): e82160.
  * [WikiPathways App for Cytoscape: Making biological pathways amenable to network analysis and visualization](https://dx.doi.org/10.12688%2Ff1000research.4254.1). Kutmon M, Lotia S, Evelo CT, Pico AR.
- * Pre-Print: [CyTargetLinker app update: A flexible solution for network extension in Cytoscape](https://f1000research.com/articles/7-743/v1). Kutmon M, Ehrhart F, Willighagen EL, Evelo CT, Coort SL. F1000Research 7 (2018) [version 1: awaiting peer review].
+ * [CyTargetLinker app update: A flexible solution for network extension in Cytoscape](https://doi.org/10.12688/f1000research.14613.2). Kutmon M, Ehrhart F, Willighagen EL, Evelo CT, Coort SL. [version 2; peer review: 2 approved]. F1000Research 2019, 7:743
  * Pre-Print: [Providing gene-to-variant and variant-to-gene database identifier mappings to use with BridgeDb mapping services](https://f1000research.com/articles/7-1390/v1). Ehrhart F, Melius J, Cirillo E, Kutmon M, Willighagen EL, Coort SL, Curfs LMG, Evelo CT. F1000Research 7 (2018) [version 1: awaiting peer review].
