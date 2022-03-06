@@ -23,7 +23,7 @@ The following groups (in alphabetical order for groups and people) are contribut
 
 BridgeDb has been funded over the years as part of many projects, including: the Open PHACTS project, OpenRiskNet,
 EU-ToxRisk, NanoCommons, ELIXIR Implementation Studies MolData1 and MolData2 (2016 and 2017) and
-Metabolomics (2018), and FAIRplus. Recently the project was awarded with the [Open Science Fund 2021 grants from NWO](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants).
+Metabolomics (2018), and FAIRplus. Recently the project was awarded with the [NWO Open Science Fund](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants) grant [203.001.121](https://www.nwo.nl/en/projects/203001121).
 
 Sustainability is further ensured by the Open Science nature and the continued dependence of other projects on
 BridgeDb. Furthermore, people involved continuously push a standardized, FAIR identifier mapping database in
