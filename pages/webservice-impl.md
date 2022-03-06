@@ -1,6 +1,8 @@
 # Webservice Implementation
+[![docker stars](https://img.shields.io/docker/stars/bigcatum/bridgedb.svg?style=flat-square)](https://hub.docker.com/r/bigcatum/bridgedb)
+[![docker pulls](https://img.shields.io/docker/pulls/bigcatum/bridgedb.svg?style=flat-square)](https://hub.docker.com/r/bigcatum/bridgedb)
 
-![OpenRiskNet logo](OpenRiskNetlogo_simSizeOpenPhacts.png)
+![OpenRiskNet logo](../images/OpenRiskNetlogo_simSizeOpenPhacts.png)
 
 ## BridgeDb webservice as docker image for OpenRiskNet
 
