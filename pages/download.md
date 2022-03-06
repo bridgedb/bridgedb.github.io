@@ -1,6 +1,6 @@
 # Downloads
 
-## Download the Java Library
+## Download the BridgeDb Java Library
 
 The distribution can be downloaded from [this release folder](https://github.com/bridgedb/BridgeDb/releases).
 There are two source distributions:
@@ -19,7 +19,7 @@ For Maven:
     <dependency>
         <groupId>org.bridgedb</groupId>
         <artifactId>org.bridgedb.bio</artifactId>
-        <version>2.3.9</version>
+        <version>3.0.13</version>
     </dependency>
 </dependencies>
 ```
@@ -27,24 +27,20 @@ For Maven:
 For Gradle:
 
 ```
-compile group: 'org.bridgedb', name: 'org.bridgedb.bio', version: '2.3.9'
+compile group: 'org.bridgedb', name: 'org.bridgedb.bio', version: '3.0.13'
 ```
 
 For Ivy:
 
 ```xml
-<dependency org="org.bridgedb" name="org.bridgedb.bio" rev="2.3.9"/>
+<dependency org="org.bridgedb" name="org.bridgedb.bio" rev="3.0.13"/>
 ```
 
-## Download the Identifier Mapping Databases
+## Download the BridgeDb Identifier Mapping Databases
 
 See the [overview of mapping databases](https://bridgedb.github.io/data/gene_database/).
 
-## Using BridgeDb as a Docker container
+## Using BridgeDb Webservice as a Docker container
 
-See the [GitHub repository of the BridgeDb Docker](https://web.archive.org/web/20190824104419/https://github.com/bridgedb/docker)
-and the [DockerHub repository for BridgeDb](https://web.archive.org/web/20190824104419/https://hub.docker.com/r/bigcatum/bridgedb/).
-
-Deployment files for OpenShift are [available here](https://web.archive.org/web/20190824104419/https://github.com/OpenRiskNet/home/tree/master/openshift/deployments/bridgedb).
-Also, BridgeDb is directly available in the OpenShift catalog of the OpenRiskNet project.
-
+See the [GitHub repository of the BridgeDb Docker](https://github.com/bridgedb/docker)
+and the [DockerHub repository for BridgeDb](https://hub.docker.com/r/bigcatum/bridgedb/).
