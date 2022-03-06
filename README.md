@@ -1,4 +1,4 @@
-# Standardised access to Gene, Gene-Variant, Protein, Metabolite and Interaction Identifier Mapping Services
+# Standardised access to Identifier Mappings
 
 <script type="application/ld+json">
 {
