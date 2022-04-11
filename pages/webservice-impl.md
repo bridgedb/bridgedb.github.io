@@ -6,11 +6,7 @@
 
 ## BridgeDb webservice as docker image for OpenRiskNet
 
-The BridgeDb webservice is available as
-[docker image](http://bridgedb.prod.openrisknet.org/swagger/)
-in the [OpenRiskNet e-infrastructure](https://home.prod.openrisknet.org/) containing
-mapping files for metabolites, and gene mapping files for Homo sapiens, Mus musculus and Rattus
-norvegicus. Link to the [Docker hub](https://hub.docker.com/r/bigcatum/bridgedb/)
+The BridgeDb webservice is available from [Docker hub](https://hub.docker.com/r/bigcatum/bridgedb/)
 for version control and [Github repository](https://github.com/bridgedb/docker) with build configuration
 steps.
 
