@@ -8,7 +8,7 @@
 
 The BridgeDb webservice is available from [Docker hub](https://hub.docker.com/r/bigcatum/bridgedb/)
 for version control and [Github repository](https://github.com/bridgedb/docker) with build configuration
-steps.
+steps. All species covered in our [download list](https://bridgedb.github.io/data/gene_database/) are included in this docker.
 
 ### Instructions to pull the Docker Image
 
