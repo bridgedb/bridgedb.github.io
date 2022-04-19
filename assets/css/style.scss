@@ -3,10 +3,7 @@
 
 @import "{{ site.theme }}";
 
+//Creating wider view for whole website:
 .main-content {
   max-width: 80rem;
-}
-
-.container-lg {
-    max-width: 1212px;
 }
