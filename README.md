@@ -16,8 +16,8 @@
 }
 </script>
 
-BridgeDb is a framework to map identifiers between various biological databases. 
-These mappings are provided for genes, proteins, genetic variants, metabolites, and metabolic reactions. 
+BridgeDb is a framework to map identifiers between various biological databases and related resources. 
+These mappings are provided for genes, proteins, metabolites, metabolic reactions, diseases, complexes and publications. 
 BridgeDb includes a Java library that provides an API for programmatic access.
 
 NEWS: Find the latest tutorials on BridgeDb in the FAIR-plus cookbook [here](/pages/tutorials_workflows.html) .
