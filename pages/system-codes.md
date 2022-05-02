@@ -156,5 +156,47 @@ to the word “chemicals”).
   <tr><td>Sbo</td><td><a href="http://www.ebi.ac.uk/sbo/">Systems Biology Ontology</a></td></tr>
 </table>
 
+## Species
+<table>
+    <tr><td>Ag</td><td>Anopheles gambiae</td></tr>
+    <tr><td>An</td><td>Aspergillus niger</td></tr>
+    <tr><td>At</td><td>Arabidopsis thaliana</td></tr>
+    <tr><td>Bs</td><td>Bacillus subtilis</td></tr>
+    <tr><td>Bt</td><td>Bos taurus</td></tr>
+    <tr><td>Ce</td><td>Caenorhabditis elegans</td></tr>
+    <tr><td>Cf</td><td>Canis familiaris</td></tr>
+    <tr><td>Ci</td><td>Ciona intestinalis</td></tr>
+    <tr><td>Dr</td><td>Danio rerio</td></tr>
+    <tr><td>Da</td><td>Daphnia magna</td></tr>
+    <tr><td>Dp</td><td>Daphnia pulex</td></tr>
+    <tr><td>Dm</td><td>Drosophila melanogaster</td></tr>
+    <tr><td>Ec</td><td>Escherichia coli</td></tr>
+    <tr><td>Gg</td><td>Gallus gallus</td></tr>
+    <tr><td>Fg</td><td>Fusarium graminearum</td></tr>
+    <tr><td>Gm</td><td>Glycine max</td></tr>
+    <tr><td>Hs</td><td>Homo sapiens</td></tr>
+    <tr><td>Hv</td><td>Hordeum vulgare</td></tr>
+    <tr><td>Ml</td><td>Macaca mulatta</td></tr>
+    <tr><td>Mm</td><td>Mus musculus</td></tr>
+    <tr><td>Mx</td><td>Mycobacterium tuberculosis</td></tr>
+    <tr><td>Oa</td><td>Ornithorhynchus anatinus</td></tr>
+    <tr><td>Ova</td><td>Ovis aries</td></tr>
+    <tr><td>Oi</td><td>Oryza indica</td></tr>
+    <tr><td>Oj</td><td>Oryza japonica</td></tr>
+    <tr><td>Pi</td><td>Populus trichocarpa</td></tr>
+    <tr><td>Pt</td><td>Pan troglodytes</td></tr>
+    <tr><td>Qc</td><td>Equus caballus</td></tr>
+    <tr><td>Rn</td><td>Rattus norvegicus</td></tr>
+    <tr><td>Sc</td><td>Saccharomyces cerevisiae</td></tr>
+    <tr><td>Sl</td><td>Solanum lycopersicum</td></tr>
+    <tr><td>Ss</td><td>Sus scrofa</td></tr>
+    <tr><td>Vv</td><td>Vitis vinifera</td></tr>
+    <tr><td>Xt</td><td>Xenopus tropicalis</td></tr>
+    <tr><td>Zm</td><td>Zea mays</td></tr>
+  
+
+</table>
+
 <!--  <tr><td></td><td><a href=""></a></td></tr> -->
+
 
