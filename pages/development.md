@@ -15,9 +15,9 @@ The following groups (in alphabetical order for groups and people) are contribut
 
  * Gladstone Institutes: Alex Pico, Anders Riutta
  * Heriot Watt University: Alasdair Gray
- * Maastricht University: Anwesha Bohler, Chris Evelo, Martijn van Iersel, Thomas Kelder, Christ Leemans, Marvin Martens, Luc, Meyer Jonathan Mélius, Denise Slenter,  Lucas Uberti-Bona Marin, Egon Willighagen
+ * Maastricht University: Tooba Abbassi-Daloii, Helena Basaric, Anwesha Bohler, Chris Evelo, Martijn van Iersel, Thomas Kelder, Christ Leemans, Marvin Martens, Luc de Meyer, Jonathan Mélius, Denise Slenter, Lucas Uberti-Bona Marin, Egon Willighagen
  * University of Manchester: Christian Brenninkmeijer, Ian Dunlop, Carole Goble, Nick Juty, Stian Soiland-Reyes
- * Others: Manas Awasthi, Jianjiong Gao, Isaac Ho, Kozo Nishida
+ * Others: Manas Awasthi, Jianjiong Gao, Isaac Ho, Charles Tapley Hoyt, Kozo Nishida
 
 ## Funding and sustainability
 
