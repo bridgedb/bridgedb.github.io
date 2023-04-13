@@ -10,6 +10,8 @@ There are two source distributions:
 
 A full archive can be found [at Zenodo](https://zenodo.org/record/593034).
 
+Questions can be posted at the [BridgeDb mailing list](https://groups.google.com/g/bridgedb-discuss).
+
 ### Using the library in Maven, Gradle, etc
 
 For Maven:
