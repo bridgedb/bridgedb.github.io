@@ -19,7 +19,7 @@ For Maven:
     <dependency>
         <groupId>org.bridgedb</groupId>
         <artifactId>org.bridgedb.bio</artifactId>
-        <version>3.0.13</version>
+        <version>3.0.21</version>
     </dependency>
 </dependencies>
 ```
@@ -27,13 +27,13 @@ For Maven:
 For Gradle:
 
 ```
-compile group: 'org.bridgedb', name: 'org.bridgedb.bio', version: '3.0.13'
+compile group: 'org.bridgedb', name: 'org.bridgedb.bio', version: '3.0.21'
 ```
 
 For Ivy:
 
 ```xml
-<dependency org="org.bridgedb" name="org.bridgedb.bio" rev="3.0.13"/>
+<dependency org="org.bridgedb" name="org.bridgedb.bio" rev="3.0.21"/>
 ```
 
 ## Download the BridgeDb Identifier Mapping Databases
