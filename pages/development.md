@@ -9,6 +9,8 @@ The development of BridgeDb is as modular as BridgeDb itself. In particular, the
    3. [Interactions (Based on Rhea)](https://github.com/bridgedb/InteractionDB)
    4. [Gene-Variant (Ensembl and dnSNP)](https://github.com/BiGCAT-UM/BridgeDbVariantDatabase)
 
+Questions can be posted at the [BridgeDb mailing list](https://groups.google.com/g/bridgedb-discuss).
+
 ## Development team
 
 The following groups (in alphabetical order for groups and people) are contributing to the development of the BridgeDb world (current or past):
