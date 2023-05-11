@@ -20,7 +20,7 @@ BridgeDb is a framework to map identifiers between various biological databases 
 These mappings are provided for genes, proteins, metabolites, metabolic reactions, diseases, complexes and publications. 
 BridgeDb includes a Java library that provides an API for programmatic access.
 
-NEWS: Find the latest tutorials on BridgeDb in the FAIR-plus cookbook [here](/pages/tutorials_workflows.html) .
+NEWS: Find the demo of the BridgeDb Shiny app [here](https://shiny.bridgedb.org) to map outdated identifiers!
 
 <table border="0">
   <tr border="0">
