@@ -8,7 +8,7 @@ using [OpenAPI](https://www.openapis.org/).
 
 ### Other instances
 
-* The VHP4Safety instance: https://bridgedb.cloud.vhp4safety.nl/
+* The VHP4Safety instance: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/)
 
 ## Implementation details
 
